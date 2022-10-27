@@ -1,0 +1,25 @@
+body
+
+{
+background-color: darkcyan;
+
+
+
+}
+
+p
+
+{
+color: darkgreen;
+font-weight: bold;
+font-family: 'Times New Roman', Times, serif;
+font-size: xx-large;
+
+
+}
+
+img
+{
+    content: url(OIP.jfif)
+    width: 1000px;
+}
